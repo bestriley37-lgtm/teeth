@@ -1,4 +1,4 @@
-# Prevent users to commit their own .RProj
+# Prevent users to commit their own .RProj 
 *.Rproj
 
 # Temporary files
